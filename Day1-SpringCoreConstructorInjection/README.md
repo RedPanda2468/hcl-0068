@@ -52,4 +52,5 @@ The `AppConfig` class uses `@Configuration` and `@Bean` methods to register the 
 
 ## Screenshot
 
-Add a screenshot of the application's console output here when preparing the final submission.
+<img width="1537" height="310" alt="image" src="https://github.com/user-attachments/assets/20e64e7a-6b7c-4b46-8752-105b50b2d2b6" />
+
